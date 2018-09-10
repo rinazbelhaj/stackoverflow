@@ -1,3 +1,4 @@
+
 18/09/10 06:00:34 Thread-64 INFO SparkContext: Starting job: parquet at NativeMethodAccessorImpl.java:0
 18/09/10 06:00:34 dag-scheduler-event-loop INFO DAGScheduler: Got job 4 (parquet at NativeMethodAccessorImpl.java:0) with 2196 output partitions
 18/09/10 06:00:34 dag-scheduler-event-loop INFO DAGScheduler: Final stage: ResultStage 4 (parquet at NativeMethodAccessorImpl.java:0)
